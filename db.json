@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "SmartPhones",
+            "img": "https://m.media-amazon.com/images/I/61IwksZ-DGL._SL1500_.jpg",
+            "price": 30000,
+            "id": 0
+        },
+        {
+            "name": "Watches",
+            "img": "https://i5.walmartimages.com/asr/f22ac04e-2c39-43da-9579-76e633d23d95.b7796c43afc83c881d41061718ba12e0.jpeg",
+            "price": 5300,
+            "id": 1
+        },
+        {
+            "name ": "Ear Phones",
+            "img": "https://5.imimg.com/data5/XM/PV/MY-7809370/portronics-conch-204-conch-ear-phones-wired-headset-500x500.jpg",
+            "price": 2499,
+            "id": 2
+        },
+        {
+            "name ": "Bluetooth Speakers",
+            "img": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/144/14498/14498672.jpg",
+            "price": 10000,
+            "id": 3
+        }
+    ]
+}
